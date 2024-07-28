@@ -1,0 +1,7 @@
+try using the following
+cd namedlocalrep
+git init
+git add :/
+git commit -m "Your msg" -a
+git remote add origin https://github.com/yourUsername/yourRepository.git
+git push origin master
