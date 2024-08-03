@@ -1,4 +1,6 @@
 
+
+norm can be defined by matrix?
 Linear equation n-variable
 ax+by+c=0
 nT+c=0
