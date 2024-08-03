@@ -1,4 +1,5 @@
 
+Linear equation n-variable
 ax+by+c=0
 nT+c=0
 n=[a    x=[x
