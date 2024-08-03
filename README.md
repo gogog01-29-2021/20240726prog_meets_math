@@ -2,6 +2,7 @@
 ax+by+c=0
 nT+c=0
 n=[a    x=[x
+
    b]      y]
 ## Programming Meets Mathematics
 _Programming Meets Mathematics_ (a.k.a. _Python Meets Mathematics_) is an intuitive tutorial on [Python](https://www.python.org/) and its widely used libraries such as [NumPy](https://numpy.org/), [Matplotlib](https://matplotlib.org/), and [SciPy](https://scipy.org/). Python with these libraries are commonly used in scientific computing (sometimes as an alternative of MATLAB). In addition to review these libraries, this tutorial aims to promote intuitive understanding of important mathematical concepts with code examples. The given example codes in Python provide visualization and simulation, which will connect your mathematical understanding to your programming skill.
